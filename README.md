@@ -17,7 +17,7 @@ Manually install BlackArch tools, Manage your pentest toolkit and automatically 
 1. git clone https://github.com/xDavunix05/Black-owl.git
 2. cd black-owl
 3. (Optional) python3 -m venv env
-4.(Optional) source env/bin/activate
+4. (Optional) source env/bin/activate
 5. pip3 install -r requriements.txt
 6. sudo env/bin/python3 ./menu.py #only for env
 7. python3 ./menu
